@@ -205,16 +205,16 @@
         },
         {
             "name": "gingteam/telegram",
-            "version": "v1.0.0",
+            "version": "v1.0.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/gingteam/telegram.git",
-                "reference": "5a860318395a5f6a115425e8c4f13dc73c85a84a"
+                "reference": "9a4e9d5bf370b1cc884169d90f6e4010628816c6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/gingteam/telegram/zipball/5a860318395a5f6a115425e8c4f13dc73c85a84a",
-                "reference": "5a860318395a5f6a115425e8c4f13dc73c85a84a",
+                "url": "https://api.github.com/repos/gingteam/telegram/zipball/9a4e9d5bf370b1cc884169d90f6e4010628816c6",
+                "reference": "9a4e9d5bf370b1cc884169d90f6e4010628816c6",
                 "shasum": ""
             },
             "require": {
@@ -251,9 +251,9 @@
             "description": "Telegram's collection of data types and methods",
             "support": {
                 "issues": "https://github.com/gingteam/telegram/issues",
-                "source": "https://github.com/gingteam/telegram/tree/v1.0.0"
+                "source": "https://github.com/gingteam/telegram/tree/v1.0.1"
             },
-            "time": "2023-01-16T04:19:27+00:00"
+            "time": "2023-01-19T14:49:06+00:00"
         },
         {
             "name": "monolog/monolog",
